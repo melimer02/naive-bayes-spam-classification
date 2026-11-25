@@ -1,0 +1,45 @@
+# Byte-compiled / cache / fichiers de compilation
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv/
+conda/
+
+# Jupyter Notebook & checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Éditeurs / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers système OS
+.DS_Store
+Thumbs.db
+
+
